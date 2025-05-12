@@ -1,3 +1,5 @@
+from flaskblog import create_app
+
 def test_home_route():
     app = create_app()
     client = app.test_client()
