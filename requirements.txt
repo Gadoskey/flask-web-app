@@ -8,7 +8,6 @@ cryptography==2.8
 dbus-python==1.2.16
 distro==1.4.0
 dnspython==2.6.1
-ec2-hibinit-agent==1.0.0
 email-validator==2.2.0
 entrypoints==0.3
 flask==3.0.3
