@@ -14,4 +14,5 @@ werkzeug==3.0.3
 cryptography==42.0.5
 bcrypt==4.2.0
 PyJWT==2.8.0
+Pillow
 requests==2.32.0
